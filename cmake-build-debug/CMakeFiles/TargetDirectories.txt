@@ -1,0 +1,4 @@
+/home/katia/Desktop/lab_11-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/katia/Desktop/lab_11-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/katia/Desktop/lab_11-master/cmake-build-debug/CMakeFiles/test.dir
+/home/katia/Desktop/lab_11-master/cmake-build-debug/CMakeFiles/lab_11.dir
